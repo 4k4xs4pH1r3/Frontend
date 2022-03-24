@@ -51,7 +51,7 @@ jobs:
         run: ./run_your_api.sh & # <- ✏️ update this
 
       - name: Mayhem for API
-        uses: ForAllSecure/mapi-action@12c0301a533c904c81349a30d641e5e885e9f625
+        uses: ForAllSecure/mapi-action@65563a5a2540834d509371841b1e529f24a3d3cf
         continue-on-error: true
         with:
           mapi-token: ${{ secrets.MAPI_TOKEN }}
