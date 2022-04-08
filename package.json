@@ -3,31 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.11.4",
-<<<<<<< HEAD
-    "@testing-library/react": "^12.1.2",
-=======
-    "@testing-library/react": "^11.1.0",
->>>>>>> snyk-upgrade-51ce868a1ae3d0e22c0984700ea69d23
-    "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.2",
-<<<<<<< HEAD
-    "web-vitals": "^1.0.1"
-=======
->>>>>>> snyk-upgrade-51ce868a1ae3d0e22c0984700ea69d23
-=======
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
->>>>>>> master
-    "web-vitals": "^2.1.2"
->>>>>>> master
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^14.0.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "dev": "PORT=4200 yarn start",
