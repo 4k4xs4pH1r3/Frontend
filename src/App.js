@@ -9,7 +9,7 @@ function App() {
     
     useEffect(() => {
         const endpoint = process.env.REACT_APP_ENDPOINT ||
-        'http://localhost:3000/welcome/';
+        'https://localhost:3000/welcome/';
         setLoading(true);
         fetch(endpoint)
             .then(res => res.json())
