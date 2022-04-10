@@ -23,7 +23,7 @@ function App() {
                     console.log('API Error: ', e);
                     setLoading(false);
                     setError(e);
-                }
+                },
             );
     }, []);
 
