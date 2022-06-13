@@ -2,6 +2,10 @@
 
 [![APIsec](https://github.com/4k4xs4pH1r3/Frontend/actions/workflows/apisec-scan-analysis.yml/badge.svg)](https://github.com/4k4xs4pH1r3/Frontend/actions/workflows/apisec-scan-analysis.yml)
 
+[![DeepSource](https://deepsource.io/gh/4k4xs4pH1r3/Frontend.svg/?label=active+issues&show_trend=true&token=kP7RWPbaca0VOQVnbN0eJOpM)](https://deepsource.io/gh/4k4xs4pH1r3/Frontend/?ref=repository-badge)
+
+[![DeepSource](https://deepsource.io/gh/4k4xs4pH1r3/Frontend.svg/?label=resolved+issues&show_trend=true&token=kP7RWPbaca0VOQVnbN0eJOpM)](https://deepsource.io/gh/4k4xs4pH1r3/Frontend/?ref=repository-badge)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
