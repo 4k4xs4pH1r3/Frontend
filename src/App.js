@@ -15,12 +15,10 @@ function App() {
       .then((res) => res.json())
       .then(
         (result) => {
-          
           setLoading(false);
           setData(result.datetime);
         },
         (e) => {
-          
           setLoading(false);
           setError(e);
         }
