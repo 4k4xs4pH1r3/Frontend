@@ -15,12 +15,10 @@ function App() {
       .then((res) => res.json())
       .then(
         (result) => {
-          console.log("API Response: ", result);
           setLoading(false);
           setData(result.datetime);
         },
         (e) => {
-          console.log("API Error: ", e);
           setLoading(false);
           setError(e);
         }
