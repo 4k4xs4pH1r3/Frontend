@@ -26,7 +26,7 @@ jobs:
           cache: maven
       - name: Run PMD
         id: pmd
-        uses: pmd/pmd-github-action@e45661c6690c25162a8d8035a962b1874229f2ea
+        uses: pmd/pmd-github-action@966f58d72521663eef9878a98c16e775cdb032fb
         with:
           rulesets: 'rulesets/java/quickstart.xml'
           sourcePath: 'src/main/java'
