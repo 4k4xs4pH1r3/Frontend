@@ -52,5 +52,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/4k4xs4pH1r3/Frontend.git",
+  "author": "҉αkα x⠠⠵ <32862241+4k4xs4pH1r3@users.noreply.github.com>",
+  "license": "MIT"
 }
